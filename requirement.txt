@@ -1,0 +1,9 @@
+torch==1.7.1+cu101 
+torchvision==0.8.2+cu101 
+torchaudio==0.7.2
+opencv-python==4.5.3
+insightface==0.2.1
+argparse
+tqdm
+scenedetect==0.5.1
+python_speech_features
